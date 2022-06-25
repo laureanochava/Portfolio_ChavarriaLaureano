@@ -1,0 +1,33 @@
+/*Todo el componente "Acerca de mi"*/
+.row{
+    background-color: #a1b5cb;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/*Etiqueta Nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 30%;
+}
+
+@media (min-width:576px){
+    #fotoperfil{
+        position: relative;
+        width: 100%;
+        border-radius: 90%;
+        box-shadow: 3px 3px 3px black;
+        left: 0%;
+        top: -74px;
+    }
+}
+
+
+
+
+
+    
+    
